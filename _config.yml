@@ -2,7 +2,7 @@
 title: Vegaz Blog
 SEOTitle: Vegaz的博客 | Vegaz Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: zxycoder123@gmail.com
 description: "Every failure is leading towards success."
 keyword: "Vegaz, Vegaz Blog, coder"
 url: "https://vegazmaoning.github.io/"          # your host, for absolute URL
@@ -11,8 +11,8 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Knowledge is wealth!"
+sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
