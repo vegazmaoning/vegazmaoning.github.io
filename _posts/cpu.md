@@ -1,4 +1,4 @@
-```
+---
 layout:     post
 title:      CPU调度
 subtitle:   cpu调度
@@ -8,7 +8,7 @@ header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
     - linux
-```
+---
 
 CPU中断与上下文切换
 
