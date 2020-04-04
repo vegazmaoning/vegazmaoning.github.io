@@ -1,3 +1,12 @@
+layout:     post
+title:      CPU调度
+date:       2020/4/4
+author:     Vegaz
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - Linux
+
 CPU中断与上下文切换
 
 进程上下文切换：
